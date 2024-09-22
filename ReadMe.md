@@ -12,10 +12,6 @@
 <br><br>
 combining innovation with efficiency to deliver impactful solutions. Whether it's a web app, mobile app, or desktop software, I'm committed to creating experiences that users love!<br><br>💼 Entrepreneurial Journey:<br>I co-founded Cryste Software Solutions 🏢 and Soluzent 🌟, where I continue to lead tech innovations and drive impactful projects across various industries.<br><br>🎉 Fun Facts:<br>I was the Head Prefect at Thakshila College 🎓, and I love taking on leadership roles.<br>I placed 1st in the IEEE Volta Robotic Competition 🤖!<br>🌍 Let’s Connect:<br>LinkedIn 👨‍💼<br>GitHub 💻<br>Thanks for stopping by! Let's build something amazing together! 🚀👨‍💻
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UWBd8fXt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Eshan.A.Gunathilaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.r__adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-gunathilaka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/s-d-e-a-gunathilaka) 
-
 # 💻 Tech Stack:
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanAdithaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
@@ -39,6 +35,9 @@ combining innovation with efficiency to deliver impactful solutions. Whether it'
   <img src="https://github-readme-stats.vercel.app/api?username=EshanAdithaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshanAdithaya&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
 </p>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UWBd8fXt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Eshan.A.Gunathilaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.r__adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-gunathilaka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/s-d-e-a-gunathilaka) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EshanAdithaya&icon=0&color=0)](https://visitcount.itsvg.in)
