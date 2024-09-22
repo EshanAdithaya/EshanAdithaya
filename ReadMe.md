@@ -35,9 +35,10 @@ combining innovation with efficiency to deliver impactful solutions. Whether it'
   <img src="https://github-readme-stats.vercel.app/api?username=EshanAdithaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshanAdithaya&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
 </p>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UWBd8fXt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Eshan.A.Gunathilaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.r__adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-gunathilaka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/s-d-e-a-gunathilaka) [![](https://visitcount.itsvg.in/api?id=EshanAdithaya&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 ---
-[![](https://visitcount.itsvg.in/api?id=EshanAdithaya&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UWBd8fXt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Eshan.A.Gunathilaka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.r__adi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshan-gunathilaka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/s-d-e-a-gunathilaka) [![](https://visitcount.itsvg.in/api?id=EshanAdithaya&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
