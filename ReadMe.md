@@ -1,8 +1,9 @@
-
-# 💫 About Me:
 <p align="center">
   <img src="2.gif" alt="endlessrun.exe -g"/>
 </p>
+
+# 💫 About Me:
+
 
 
 👋 Hey there! I'm Eshan Gunathilaka – a passionate and dynamic Software Developer with a knack for crafting innovative solutions and elegant code! 💻 I specialize in a wide range of technologies, from building slick web applications to powerful desktop software, and I'm always eager to learn more and take on new challenges.<br><br>🚀 What I do:<br>Programming Languages: Python 🐍 | JavaScript (Node.js, React, Next.js, jQuery) 🌐 | C++ 💪 | Java ☕ | PHP 🖥 | SQL 🗄 | HTML5/CSS 🎨 | NestJS 🌟 | Bootstrap 💼 | TailwindCSS 💅<br>Tools & Technologies: Git 🚀 | MySQL 🔍 | MongoDB 📊 | Firebase 🔥 | Figma 🎨 | Adobe XD  
