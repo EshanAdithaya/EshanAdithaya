@@ -16,6 +16,9 @@ combining innovation with efficiency to deliver impactful solutions. Whether it'
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanAdithaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
+<p align="center">
+ <img src="https://stats.dooboo.io/api/github-stats-advanced?login=EshanAdithaya" alt="Top Languages"/>
+</p>
 https://stats.dooboo.io/api/github-stats-advanced?login=EshanAdithaya
 
 
