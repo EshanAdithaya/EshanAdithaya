@@ -45,7 +45,7 @@ combining innovation with efficiency to deliver impactful solutions. Whether it'
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EshanAdithaya&theme=dark)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EshanAdithaya&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EshanAdithaya&theme=dark)
 <br><br>
 
 
